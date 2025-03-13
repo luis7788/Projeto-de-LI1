@@ -1,4 +1,6 @@
-# Laboratórios de Informática I
+# Laboratórios de Informática I - Donkey Kong
+
+Projeto desenvolvido em grupo na UC de LI1 no primeiro ano da Licenciatura em Engenharia Informática.
 
 ## Executável
 
